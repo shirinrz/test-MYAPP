@@ -2,10 +2,10 @@ body {
   font-family: Cerebri Sans, Helvetica, Arial, sans-serif;
 }
 h1 {
-  font-size: 22px;
+  font-size: 45px;
   color: blueviolet;
-
   text-align: center;
+  font-weight: 400px;
 }
 image {
   width: 100px;
